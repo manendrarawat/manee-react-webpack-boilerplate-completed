@@ -1,0 +1,11 @@
+{
+    "name": "",
+    
+    "ageOptions": ["18 - 25", "26 - 59", "60 or older"],
+    "ownerAgeRangeSelection": "",
+    "siblingOptions": ["male", "female"],
+    "siblingSelection": ["male"],
+    "petSelections": ["dog", "cat", "rabbit", "iguana", "pony", "ferret", "fish", "bird"],
+    "selectedPets": ["dog", "cat", "ferret"]
+    
+  }
